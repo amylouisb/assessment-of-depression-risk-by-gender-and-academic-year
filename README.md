@@ -44,6 +44,3 @@ The study utilizes a structured survey divided into three main sections:
 ## Tools Used
 - **Data Collection:** Survey Questionnaires (9Q Evaluation)  
 - **Analysis:** Statistical analysis based on gender and academic year distributions  
-
-- Amy Louise Brown  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
